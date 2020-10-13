@@ -1,2 +1,8 @@
-# Kubernetes-DNS-spoofing-POC-
-Proof-of-Concept python script which implements DNS spoofing attack in Kubernetes environment from a pod located on Worker server
+# Kubernetes-DNS-spoofing-POC
+Proof-of-Concept python script which implements DNS spoofing attack in Kubernetes environment from a pod located on Worker server.
+
+For a clearer context and understanding of what lies behind the attack vector, you can continue reading at CyberArk's threat research blog:
+<Link-to-Blog-Post>
+
+# References:
+For more comments, suggestions or questions, you can contact Nir Chako ([@C_h4ck_0](https://twitter.com/@C_h4ck_0)) and CyberArk Labs.
