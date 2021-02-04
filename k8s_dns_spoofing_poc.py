@@ -132,7 +132,7 @@ def print_logo():
     print colored(" | | _| (_) |___  | |  | |  \| | (___    ___ _ __   ___   ___ | |_ _ _ __   __ _  | |__) | |  | | |     ", 'magenta', attrs=['bold'])
     print colored(" | |/ /> _ </ __| | |  | | . ` |\___ \  / __| '_ \ / _ \ / _ \|  _| | '_ \ / _` | |  ___/| |  | | |     ", 'magenta', attrs=['bold'])
     print colored(" |   <| (_) \__ \ | |__| | |\  |____) | \__ \ |_) | (_) | (_) | | | | | | | (_| | | |    | |__| | |____ ", 'magenta', attrs=['bold'])
-    print colored("  |_|\_\\\\___/|___/ |_____/|_| \_|_____/  |___/ .__/ \___/ \___/|_| |_|_| |_|\__, | |_|     \____/ \_____|", 'magenta', attrs=['bold'])
+    print colored(" |_|\_\\\\___/|___/ |_____/|_| \_|_____/  |___/ .__/ \___/ \___/|_| |_|_| |_|\__, | |_|     \____/ \_____|", 'magenta', attrs=['bold'])
     print colored("                                            | |                             __/ |                       ", 'magenta', attrs=['bold'])
     print colored("                                            |_|                            |___/                        ", 'magenta', attrs=['bold'])
 
